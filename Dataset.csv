@@ -1,4 +1,4 @@
-SCHOOL,PROGRAMME,FEES(GHS),LOCATION
+SCHOOL,PROGRAMME,FEES,LOCATION
 ASHESI,COMPUTER ENGINEERING,32739,ACCRA
 ASHESI,MECHANICAL ENGINEERING,32739,ACCRA
 ASHESI,ELECTRICAL AND ELECTRONIC ENGINERREING,32739,ACCRA
@@ -86,7 +86,7 @@ UCC,Doctor of Optometry,5567,CAPE COAST
 KNUST,Akan Langauge & Culture,1414,KUMASI
 KNUST,English,1414,KUMASI
 KNUST,Political Studies,1414,KUMASI
-KNUST,Geography & Rural Development/ HistoryÊ,1414,KUMASI
+KNUST,Geography & Rural Development/ Historyï¿½,1414,KUMASI
 KNUST,Linguistics,1414,KUMASI
 KNUST,Sociology,1414,KUMASI
 KNUST,Social Work,1414,KUMASI
@@ -184,20 +184,20 @@ University Of Ghana,Chemistry,2106,Accra
 University Of Ghana,Geophysics,2106,Accra
 University Of Ghana,Mathematics,2106,Accra
 University Of Ghana,Statistics,2106,Accra
-University Of Ghana,Actuarial ScienceÊ,2106,Accra
+University Of Ghana,Actuarial Scienceï¿½,2106,Accra
 University Of Ghana,Computer Science,2106,Accra
 University Of Ghana,Biomathematcs,2106,Accra
 University Of Ghana,Physics,2106,Accra
-University Of Ghana,GeologyÊ,2106,Accra
+University Of Ghana,Geologyï¿½,2106,Accra
 University Of Ghana,Applied Geology,2106,Accra
 University Of Ghana,Applied Geophysics,2106,Accra
 University Of Ghana,Information Technology,2106,Accra
 University Of Ghana,Biological Sciences,2106,Accra
 University Of Ghana,Animal Biology and Conservation Science,2106,Accra
-University Of Ghana,Biochemistry Cell and Molecular BiologyÊ,2106,Accra
-University Of Ghana,NutritionÊ,2106,Accra
+University Of Ghana,Biochemistry Cell and Molecular Biologyï¿½,2106,Accra
+University Of Ghana,Nutritionï¿½,2106,Accra
 University Of Ghana,Food Science,2106,Accra
-University Of Ghana,Plant and Enviromental BiologyÊ,2106,Accra
+University Of Ghana,Plant and Enviromental Biologyï¿½,2106,Accra
 University Of Ghana,Marine Science,2106,Accra
 University Of Ghana,Psychology,2106,Accra
 University Of Ghana,Fisheries Science,2106,Accra
@@ -244,7 +244,7 @@ University Of Ghana,Bachelor of Education - Upper Grade Specialism,1516,Accra
 University Of Ghana,Bachelor of Education - Early Grade Specialism,1516,Accra
 University Of Ghana,Bachelor of Arts in Sports and Physical Culture Studies,1516,Accra
 University Of Ghana,Bachelor of Science in Business Administration,2106,Accra
-University Of Ghana,Bachelor of Arts Ð Available in the following Departments:,1516,Accra
+University Of Ghana,Bachelor of Arts ï¿½ Available in the following Departments:,1516,Accra
 University Of Ghana,Department of Economics,1516,Accra
 University Of Ghana,Department of Political Science,1516,Accra
 University Of Ghana,Department of Sociology,1516,Accra
@@ -253,32 +253,32 @@ University Of Ghana,Department of Information Studies,1516,Accra
 University Of Ghana,Department of Adult Education and Human Resource Studies,1516,Accra
 University Of Ghana,Bachelor of Science in Information Technology,2106,Accra
 University Of Ghana,Bachelor of Science in Nursing (For professional nurses who already have a Diploma in Nursing from a recognized Nursing Training College),2106,Accra
-CENTRAL UNIVERSITYÊ,Bachelor of Laws,5101,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Economics,2600,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in Environment and Development Studies,2842,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in Communication Studies,2600,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in Theology,2025,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Psychology,2480,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in Sociology,2480,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in Social Work,2480,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Arts in French,2390,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Agriculture Economics,2600,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Management Studies,2392,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Agribusiness,2392,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Banking and Finance,2730,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Business Administration,2730,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Architecture,4300,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Planning,3620,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Real Estate,3620,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Graphic Design,3620,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Fashion Design,3620,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Landscape Design,4300,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Interior Design,3620,ACCRA
-CENTRAL UNIVERSITYÊ,Doctor of Pharmacy,4064,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Computer Science,2940,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Civil Engineering,4425,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Information Technology,2940,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Environmental Engineering,4425,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Nursing,3869,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Physician Assistantship,5176,ACCRA
-CENTRAL UNIVERSITYÊ,Bachelor of Science in Public Health,3652,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Laws,5101,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Economics,2600,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in Environment and Development Studies,2842,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in Communication Studies,2600,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in Theology,2025,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Psychology,2480,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in Sociology,2480,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in Social Work,2480,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Arts in French,2390,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Agriculture Economics,2600,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Management Studies,2392,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Agribusiness,2392,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Banking and Finance,2730,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Business Administration,2730,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Architecture,4300,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Planning,3620,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Real Estate,3620,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Graphic Design,3620,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Fashion Design,3620,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Landscape Design,4300,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Interior Design,3620,ACCRA
+CENTRAL UNIVERSITYï¿½,Doctor of Pharmacy,4064,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Computer Science,2940,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Civil Engineering,4425,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Information Technology,2940,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Environmental Engineering,4425,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Nursing,3869,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Physician Assistantship,5176,ACCRA
+CENTRAL UNIVERSITYï¿½,Bachelor of Science in Public Health,3652,ACCRA
