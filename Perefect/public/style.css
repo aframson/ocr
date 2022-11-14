@@ -1,0 +1,106 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.gridbox{
+    /* border: 1px solid; */
+    align-self: center;
+    margin: auto;
+    width: 70%;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.pane{
+    /* border: 1px solid; */
+    padding: 20px;
+}
+.image{
+    height: 500px;
+    width: 500px;
+}
+.title{
+    font-size: 50px;
+    font-weight: 600;
+}
+.logo{
+    font-size: 60px;
+    color: #2192FF;
+    font-weight: 800;
+}
+.sub{
+    color: gray;
+    font-size: 20px;
+    padding-top: 20px;
+}
+#tit{
+    margin-top: 50px;
+}
+.start{
+    padding: 10px;
+    width: 300px;
+    color: white;
+    border-radius: 5px;
+    height: 55px;
+    border: none;
+    background-color: black;
+    margin-top: 40px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.start:hover{
+    background-color: #383838;
+    cursor: pointer;
+}
+.why{
+    /* border: 1px solid; */
+    align-self: center;
+    padding: 20px;
+    width:70%;
+    align-self: center;
+    margin: auto;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.why-title{
+    text-align: center;
+    font-size: 50px;
+    font-weight:600;
+    padding: 20px;
+}
+.why-sub{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.footer{
+    width: 100%;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 0.3fr;
+    background-color: black;
+    box-sizing: border-box;
+}
+.name{
+    color: white;
+}
+.sec{
+    /* border: 1px solid white; */
+    padding: 30px;
+    box-sizing: border-box;
+}
+.ucc{
+    height: 100px;
+}
+.ark{
+    color: white;
+}
+.sec-title{
+    font-size: 25px;
+    color: white;
+    padding-bottom: 10px;
+}
+.active{
+    color: #2192FF;
+}

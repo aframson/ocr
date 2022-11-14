@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet" />
+    <title>SignReg</title>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyDuejTaIQz7L8pgWhizpd4js3lhyxb8JQY",
+          authDomain: "sign-d9219.firebaseapp.com",
+          projectId: "sign-d9219",
+          storageBucket: "sign-d9219.appspot.com",
+          messagingSenderId: "892329726258",
+          appId: "1:892329726258:web:508d92dc4037055739c72b",
+          measurementId: "G-G0GFE5FPSB"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
+</head>
+
+<body>
+    <div class="gridbox">
+        <div class="pane">
+            <div id="tit" class="logo">SignReg</div>
+            <div  class="title">RealTime <br /> Finger Spelling</div>
+            <p class="sub">
+                Recieve realtime feedback from ASL sign langauge alphabets with the help of Machine Learning and
+                Artificial
+                Intelligence.
+            </p>
+            <a href="model.html">
+                <button class="start">Get Started</button>
+            </a>
+        </div>
+        <div class="pane">
+            <img class="image" src="./tog.gif" alt="" srcset="">
+        </div>
+    </div>
+    <div class="why">
+          <div class="why-title">
+               Why SignReg
+          </div>
+          <p class="why-sub">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ipsum sunt. 
+            Ullam explicabo repellat odit consectetur vel eaque 
+            itaque vitae ex. Nobis quos culpa laborum aspernatur reiciendis, sint dolor eaque.
+        </p>
+    </div>
+    <div class="footer">
+        <div class="sec">
+            <div class="devs">
+                <div class="sec-title">Developers</div>
+                <div class="name">Prefect Mokli</div>
+                <div class="name">Albert Addo</div>
+                <div class="name">Andrew Osei Amankwaah</div>
+            </div>
+        </div>
+        <div class="sec">
+            <div class="sec-title">Acknowledgment</div>
+            <p class="ark">
+                This is a project of the University of Cape Coast , <br/>built under the supervision of <span class="active">Mr. Elliot Attipoe</span> 
+            </p>
+        </div>
+        <div class="sec">
+            <img  class="ucc" src="./ucc.png" alt="" srcset="">
+        </div>
+    </div>
+</body>
+
+</html>
