@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin: 0;
+  }
+.gridz{
+    /* border: 1px solid; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 70%;
+    align-self: center;
+    margin: auto;
+    margin-top: 100px;
+}
+.pe{
+    /* border: 1px solid; */
+    padding: 20px;
+}
+.img{
+    object-fit:cover;
+    height: 400px;
+    width: 550px;
+}
+.textbox{
+    width: 300px;
+}
+.imgbox{
+    /* border: 1px solid; */
+    height: 400px;
+    width: 550px;
+    position: relative;
+    background: url(./assets/1.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+}
+.imm{
+    height: 200px;
+    width: 200px;
+    object-fit:cover;
+
+}
+.imgboxer{
+    /* border: 1px solid; */
+    height: 200px;
+    width:200px;
+    position: relative;
+   
+}
+.namez{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.storebox{
+    /* border: 1px solid; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+}
+.description{
+    font-size: 12px;
+}
+.buy{
+    height: 35px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.buy:hover{
+    background-color: rgb(44, 44, 44);
+    cursor: pointer;
+}
+.text{
+    color: gray;
+    padding-top: 20px;
+    font-size: 16px;
+    margin: 20px;
+
+}
+.progress{
+    width: 94%;
+    height: 20px;
+    margin: 17px;
+}
+.conv{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.uploadbutt{
+    background-color: black;
+    padding: 10px;
+    width: 150px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.uploadbutt:hover{
+    background-color:rgb(48, 48, 48);
+    cursor: pointer;
+}
+.bb{
+    font-size:55px;
+    font-weight: 800;
+    padding-bottom: 20px;
+    /* width: 500px; */
+    /* border: 1px solid; */
+}
